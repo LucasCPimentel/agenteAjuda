@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Banco vetorial gerado localmente.
+base/db/
+
+# Arquivos locais do Streamlit.
+.streamlit/secrets.toml
+
+# Sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
